@@ -31,3 +31,8 @@ const age=22;
 console.log(age);       // output: 22
 
 
+// Best Practice
+
+//  Use const by default.
+//  Use let if the value needs to change.
+//  Avoid using var in modern JavaScript.
